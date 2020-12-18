@@ -4,3 +4,4 @@
 *.pdf
 target/*
 .DS_Store
+resources/*.pdf

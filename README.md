@@ -1,1 +1,4 @@
-Ref: https://gist.github.com/eduardohl/10009001#file-pdftablegenerator-java
+This is a small app that implements Apache PDFBox and easytable to print a static invoice.
+
+
+Ref: https://github.com/vandeseer/easytable
