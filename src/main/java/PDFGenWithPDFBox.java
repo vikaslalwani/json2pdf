@@ -95,6 +95,7 @@ public class PDFGenWithPDFBox {
             }
 
             document.save("src/main/resources/pdfBoxEasyTable.pdf");
+            document.close();
         }
     }
 

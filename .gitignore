@@ -1,7 +1,10 @@
-.idea/
-.vscode/
+.idea/*
+.vscode/*
 *.iml
 *.pdf
 target/*
 .DS_Store
 resources/*.pdf
+.project
+.settings/*
+.git/*
